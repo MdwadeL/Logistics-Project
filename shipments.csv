@@ -1,0 +1,37 @@
+shipment_id,order_id,origin_center_id,origin_city,origin_state,destination_city,destination_state,ship_date,delivery_date,promised_delivery_date,weight_lbs,shipping_cost,carrier_type,delivery_status,delay_reason,customer_type,priority_level
+SHP0001,ORD-10001,DC001,Charlotte,NC,Spartanburg,SC,2025-10-02,2025-10-04,2025-10-04,12.5,18.99,Ground,Delivered,,Business,Standard
+SHP0002,ORD-10002,DC002,Greenville,SC,Columbia,SC,2025-10-02,2025-10-02,2025-10-03,5,12.49,Ground,DELIVERED,,Residential,Standard
+SHP0003,ORD-10003,DC003,Atlanta,GA,Orlando,FL,2025-10-03,2025-10-06,2025-10-05,18lbs,29.95,Air,Late,Weather,Residential,Express
+SHP0004,ORD-10004,DC004,Dallas,TX,Memphis,TN,2025-10-03,2025-10-01,2025-10-06,40,55.00,Freight,Delivered,,Business,Standard
+SHP0005,ORD-10005,DC005,Newark,NJ,Boston,MA,10/04/2025,10/06/2025,10/06/2025,9.2,22.10,Air ,delivered,,Business,Standard
+SHP0006,ORD-10006,DC006,Miami,Florida,New York,NY,2025-10-04,,2025-10-08,15.0,45.50,Air,In Transit,,Residential,Express
+SHP0007,ORD-10007,DC007,Chicago,IL,Milwaukee,WI,2025-10-04,2025-10-05,2025-10-05,0,10.00,Ground,Delivered,,Business,Standard
+SHP0008,ORD-10008,DC008,Phoenix,AZ,Las Vegas,NV,2025-10-05,2025-10-05,2025-10-06,7.7,-5.99,Ground,Delivered,,Residential,Standard
+SHP0009,ORD-10009,DC002,Greenville,S.C.,Charleston,SC,2025-10-05,2025-10-08,2025-10-07,11.1,19.99,Ground,LATE,Driver shortage,Residential,Standard
+SHP0010,ORD-10010,DC009,Raleigh,NC,Richmond,VA,2025-10-06,2025-10-07,2025-10-07,6.4,14.25,Ground,Delivered,,Business,Standard
+SHP0011,ORD-10011,DC001,Charlotte,NC,Asheville,NC,2025-10-06,2025-10-06,2025-10-06,3.0,9.99,Ground,Delivered,,Residential,Standard
+SHP0012,ORD-10012,DC003,Atlanta,GA,Nashville,TN,2025-10-07,2025-10-10,2025-10-09,25.3,38.75,Air,Delayed,Weather,Business,Express
+SHP0013,ORD-10013,DC006,Miami,FL,Charlotte,NC,2025-10-07,2025-10-08,2025-10-09,14.2,0,Air,Delivered,,Business,Standard
+SHP0014,ORD-10014,DC004,Dallas,TX,Houston,TX,2025-10-08,2025-10-08,2025-10-08,8.1,11.10,Ground,Delivered,,Residential,Standard
+SHP0015,ORD-10015,DC005,Newark,NJ,Philadelphia,PA,2025-10-08,2025-10-09,2025-10-09,NaN,13.30,Ground,Delivered,,Residential,Standard
+SHP0016,ORD-10016,DC007,Chicago,IL,Detroit,MI,2025-10-09,2025-10-11,2025-10-10,19.9,26.40,Ground,Late,Sort delay,Business,Standard
+SHP0017,ORD-10017,DC008,Phoenix,AZ,San Diego,CA,2025-10-09,2025-10-10,2025-10-11,9.0,17.80,Ground,Delivered,,Business,Standard
+SHP0018,ORD-10018,DC002,Greenville,SC,Knoxville,TN,2025-10-10,2025-10-10,2025-10-12,4.4,16.00,Air,DELIVERED,,Residential,Express
+SHP0019,ORD-10019,DC001,Charlotte,NC,Augusta,GA,2025-10-10,2025-10-13,2025-10-12,6.0,12.00,Ground,In-Transit,,Residential,Standard
+SHP0020,ORD-10020,DC006,Miami,FL,Tampa,FL,2025-10-11,2025-10-11,2025-10-11,2.2,8.50,Ground,Delivered,,Residential,Standard
+SHP0021,ORD-10021,DC003,Atlanta,GA,Jacksonville,FL,2025-10-11,2025-10-14,2025-10-13,17.6,31.00,Air,Late,Address issue,Residential,Express
+SHP0022,ORD-10022,DC005,Newark,NJ,Newark,NJ,2025-10-12,2025-10-12,2025-10-12,1.1,6.25,Ground,Delivered,,Business,Standard
+SHP0023,ORD-10023,DC004,Dallas,TX,Oklahoma City,OK,2025-10-12,2025-10-15,2025-10-14,30.0,60.00,Freight,Delayed,Mechanical,Business,Standard
+SHP0024,ORD-10024,DC007,Chicago,IL,St Louis,MO,2025-10-13,2025-10-14,2025-10-14,10.0,18.00,Ground,Delivered,,Residential,Standard
+SHP0025,ORD-10025,DC008,Phoenix,AZ,Denver,CO,2025-10-13,,2025-10-16,13.8,25.00,Ground,IN TRANSIT,,Business,Standard
+SHP0026,ORD-10026,DC002,Greenville,SC,Columbia,South Carolina,2025-10-14,2025-10-14,2025-10-15,5.0,12.49,Ground,Delivered,,Residential,Standard
+SHP0027,ORD-10027,DC001,Charlotte,NC,Greenville,SC,2025-10-14,2025-10-16,2025-10-15,8.6,15.50,Ground,Late,Weather,Business,Standard
+SHP0028,ORD-10028,DC003,Atlanta,GA,Birmingham,AL,2025-10-15,2025-10-15,2025-10-17,7.3,19.00,Air,Delivered,,Business,Express
+SHP0029,ORD-10029,DC006,Miami,FL,Atlanta,GA,2025-10-15,2025-10-17,2025-10-16,12.2,22.00,Air,delayed,WEATHER,Residential,Express
+SHP0030,ORD-10030,DC005,Newark,NJ,Washington,DC,2025-10-16,2025-10-16,2025-10-17,3.3,9.75,Ground,Delivered,,Residential,Standard
+SHP0031,ORD-10031,DC004,Dallas,TX,Austin,TX,2025-10-16,2025-10-16,2025-10-16,6.0,10.25,Ground,Delivered,,Business,Standard
+SHP0032,ORD-10032,DC001,Charlotte,NC,Charleston,SC,2025-10-17,2025-10-18,2025-10-18,9.9,16.00,Ground,Delivered,,Residential,Standard
+SHP0033,ORD-10033,DC007,Chicago,IL,Indianapolis,IN,2025-10-17,2025-10-20,2025-10-19,16.5,24.00,Ground,Late,Sort delay,Business,Standard
+SHP0034,ORD-10034,DC002,Greenville,SC,Atlanta,GA,2025-10-18,2025-10-19,2025-10-19,5.0,12.49,Ground,Delivered,,Residential,Standard
+SHP0034,ORD-10034-DUP,DC002,Greenville,SC,Atlanta,GA,2025-10-18,2025-10-19,2025-10-19,5.0,12.49,Ground,Delivered,,Residential,Standard
+SHP0035,ORD-10035,DC003,Atlanta,GA,Miami,FL,2025-10-18,2025-10-18,2025-10-20,20.0,35.00,Air,Delivered,,Business,Express

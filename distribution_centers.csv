@@ -1,0 +1,10 @@
+center_id,center_name,city,state,capacity_per_day,open_date,manager_name,region
+DC001,Charlotte Hub,Charlotte,NC,5000,2014-03-15,Monique Harris,Southeast
+DC002,Greenville Sort,GREENVILLE,SC,"4500 shipments",2016/07/01,Tim O'Neal,Southeast
+DC003,Atlanta Air Hub,Atlanta,GA,7000,2012-11-05,Chris Johnson,SE
+DC004,Dallas Freight,Dallas,TX,8000,2010-05-20,Andrea Smith,South
+DC005,Newark Gateway,Newark,NJ,6500,2013-09-12,Sam Patel,Northeast
+DC006,Miami Intl,Miami,Florida,6000,2015-01-30,  Elena Ruiz ,Southeast
+DC007,Chicago Central,Chicago,IL,"five thousand",2011-04-18,Marcus Lee,Midwest
+DC008,Phoenix Ground,Phoenix,AZ,5200,2017-08-07,Kayla Nguyen,
+DC008,Phoenix Ground Duplicate,Phoenix,AZ,5200,2017-08-07,Kayla Nguyen,West
